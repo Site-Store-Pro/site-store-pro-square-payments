@@ -1,0 +1,9 @@
+{
+    "processor_id": 100,
+    "name": "Square Payments",
+    "type": "square",
+    "class": "PaymentProcessors\\Square\\SquareProcessor",
+    "file": "SquareProcessor.php",
+    "production_default": 0,
+    "description": "Stand-alone Square Payments processor using Square Web Payments SDK and REST API v2."
+}
